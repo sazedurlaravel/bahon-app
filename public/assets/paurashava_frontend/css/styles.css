@@ -1,0 +1,20 @@
+.icon-bar{background-color: #fff !important;}
+
+.SFooterBG{background:#086534;margin:0;}
+.SFooterLink{padding:0;margin:0; list-style: none;}
+.SFooterLink li{ padding:5px 10px; text-align: center;}
+.SFooterLink li:last-child{ border-right:none;}
+.SFooterLink li:hover{background:#0f9142;}
+.SFooterLink li a{color: #fff;}
+
+.SFooterLink-xs{padding:0;margin:0;}
+.SFooterLink-xs li{ border-right:1px solid #d8d8d8;display:inline-block;padding:5px 10px;}
+.SFooterLink-xs li:last-child{ border-right:none;}
+.SFooterLink-xs li:hover{background:#0f9142;}
+.SFooterLink-xs li a{color: #fff;}
+
+.btn-desh {color: #fff;background-color: #086534;border-color: #086534;}
+.btn-desh:hover {color: #fff;background-color: #0f9142;border-color: #0f9142;}
+.text-white {color: #fff !important;}
+.dropdown{z-index: 11111;}
+

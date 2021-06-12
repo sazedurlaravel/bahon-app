@@ -1,0 +1,114 @@
+*{
+  /* overflow-x: hidden; */
+}
+.main_header{
+  background-color: #ECEFF4;
+  width: 100%;
+  z-index: 100;
+  padding: 10px 10px 0 0;
+  border-bottom: 1px solid red;
+}
+body {
+    font-family: 'SolaimanLipi';
+}
+.sub{
+  margin-left: -100px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  text-decoration: none;
+}
+h1,h2,h4{
+  color: #7B2873;
+}
+.fixed-top{
+  background-color: #ECEFF4;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+.upservice{
+  background-color: #ECEFF4;
+}
+.seba{
+  background-color: #ECEFF4;
+  margin: 0!important;
+  padding: 0!important;
+}
+.seba img{
+  width: 20%;
+
+}
+
+.fiture {
+    margin: auto;
+    width: 220px;
+    text-align: center;
+}
+
+hr{
+  width: 5%;
+  background: green;
+  height: 2px;
+  border-radius: 5px;;
+  text-align: center;
+}
+.service-box hr{
+  width: 30%;
+  background: green;
+  height: 2px;
+  border-radius: 5px;;
+  text-align: center;
+}
+
+
+.service-box
+{
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 20px;
+  padding: 10px;
+  height: 160px;
+  width: 220px;
+  max-width: 100%;
+  background: #FFF;
+  border-radius: 7px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+.service-box img{ width: 45px; margin-bottom: 15px}
+.service-box .section-title{ color: #000; font-size: 18px}
+.service-box .section-title-bar{ height: 2px}
+
+#subida{
+  background-color: #FFFFFF;
+}
+
+.video{
+  background-color:#ECEFF4;
+  padding-bottom: 25px;
+}
+
+.hr{
+  background-color: green;
+  width: 50%;
+  height: 3px;
+  border-radius: 5px;
+}
+.hr2{
+  background-color: green;
+  width: 30%;
+  height: 3px;
+  border-radius: 5px;
+}
+#hr{
+  background-color: red;
+  width: 100%;
+}
+
+footer{ background: #FFFFFF; border-top: 1px solid #FFF; padding: 30px 10px}
